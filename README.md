@@ -1,6 +1,12 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=STORMIC-KR)](https://github.com/anuraghazra/github-readme-stats)
 
+## 👥 Activities
+#### [넷마블 게임아카데미 5기 참여]
+##### 검은매머드(열정반) 프로그래밍 담당
+#### [2021 대한민국 청소년 온라인 게임잼 참여]
+##### 프로그래밍 담당
+
 <!--
 **STORMIC-KR/STORMIC-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
